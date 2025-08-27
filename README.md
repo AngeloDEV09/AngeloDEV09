@@ -36,10 +36,13 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AngeloDEV09}/count.svg" /></p> 
-<br></div>
+### 👋 Bem-vindo!
+Você é o visitante número:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngeloDEV09&label=Profile%20views&color=0e75b6&style=flat" alt="AngeloDEV09 profile views"/>
+</p>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c3446&height=120&section=footer"/>
